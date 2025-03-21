@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on optimizing the integration of green energy solutions (specifically solar energy) into historic village buildings while preserving their cultural heritage. It also aims to analyze and predict the financial and environmental impacts of green energy investments, helping stakeholders understand the payback period, identify key factors influencing energy efficiency, and simulate the potential benefits of retrofitting measures.
+This project focuses on optimizing the integration of green energy solutions into historic village buildings while preserving their cultural heritage. It also aims to analyze and predict the financial and environmental impacts of green energy investments, helping stakeholders understand the payback period, identify key factors influencing energy efficiency, and simulate the potential benefits of retrofitting measures.
 
 The project is divided into two main components:
 
